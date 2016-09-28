@@ -2,9 +2,9 @@
 __module__="StackError"
 import StackError as error
 class AccessError(error.StackError):
-    # @author Herakliusz Lipiec (ID 114345041)
-    # @author Hamid Abdul (ID 114734769)
-    # @author Stephen Hannon(ID 113425638)
+ 
+    # @author Hamid Abdul
+   
     
     # Error class that is raised when invalid 
     # place in stack is being tried to access
