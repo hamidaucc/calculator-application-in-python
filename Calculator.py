@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#author Hamid Abdul
 __module__="Calculator"
 from tkinter import *
 from IOPanel import *
@@ -10,9 +11,7 @@ from PopUp import *
 
 # Class for a GUI-based calculator.
 class Calculator( Tk ) :
-    # @author Herakliusz Lipiec (ID 114345041)
-    # @author Hamid Abdul (ID 114734769)
-    # @author Stephen Hannon(ID 113425638)
+  
     # Width of @IOPanel@ in pixels.
     __IO_PANEL_WIDTH = 200
     # Height of @IOPanel@ in pixels.
