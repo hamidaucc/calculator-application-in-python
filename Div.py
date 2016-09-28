@@ -3,9 +3,9 @@ from basicOp import BasicOperation
 __module__="Div"
 
 class Div(BasicOperation):
-    # @author Herakliusz Lipiec (ID 114345041)
-    # @author Hamid Abdul (ID 114734769)
-    # @author Stephen Hannon(ID 113425638)
+
+    # @author Hamid Abdul
+  
     # takes in the first number and the second number as well as the base
     def __init__(self,number1,number2,base):
         if number2 == 0:
