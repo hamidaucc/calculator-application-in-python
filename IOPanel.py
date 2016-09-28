@@ -4,9 +4,8 @@ from tkinter import *
 
 # Utility class for representing the input and output fields of a calculator.
 class IOPanel( PanedWindow ) :
-    # @author Herakliusz Lipiec (ID 114345041)
-    # @author Hamid Abdul (ID 114734769)
-    # @author Stephen Hannon(ID 113425638)
+  
+    # @author Hamid Abdul 
     
     # Title of input field
     __INPUT_TITLE = "input"
