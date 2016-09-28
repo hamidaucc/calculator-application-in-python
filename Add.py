@@ -3,9 +3,8 @@ __module__="Add"
 from basicOp import BasicOperation
 
 class Add(BasicOperation):
-    # @author Herakliusz Lipiec (ID 114345041)
     # @author Hamid Abdul (ID 114734769)
-    # @author Stephen Hannon(ID 113425638)
+
     
     # takes in the first number and the second number as well as the base
     def __init__(self,number1,number2,base):
