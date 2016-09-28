@@ -4,9 +4,8 @@ from random import randint
 __all__ = ['get_color']
 __module__ = "CGG"
 class ColorGammaGenerator:
-    # @author Herakliusz Lipiec (ID 114345041)
-    # @author Hamid Abdul (ID 114734769)
-    # @author Stephen Hannon(ID 113425638)
+    # @author Hamid Abdul
+ 
     
     # Quantity of colors in gamma
     __COLOR_QUANTITY = 5
