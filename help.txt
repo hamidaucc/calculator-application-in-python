@@ -1,0 +1,20 @@
+This calculator works by entering your 1st number, and pressing P (push) on a keypad, then repeat this for 2nd number,
+    choose the operation and press A (apply).
+    Meaning of characters:
+    \t- C - Clear input
+    \t- A - Apply operation
+    \t- P - push number onto buffer
+    \t- -x - unary minus
+    \t- + - addition
+    \t- // - rounded division
+    \t- - -subtraction
+    \t- * - multuplication
+    To change a base, please go to base menu and choose your base.
+    Operations in Operations include:
+    \t- Addition on outputed number(previous operation)
+    \t- Subtraction on outputed number
+    \t- Division on outputed number
+    \t- Multuplication on outputed number
+    \t- Unary Subtraction on outputed number
+    Also in Operations menu, one can see pending operations and Clear all pending operation if thats needed.
+    
