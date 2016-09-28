@@ -3,7 +3,7 @@ __module__="Add"
 from basicOp import BasicOperation
 
 class Add(BasicOperation):
-    # @author Hamid Abdul (ID 114734769)
+    # @author Hamid Abdul
 
     
     # takes in the first number and the second number as well as the base
